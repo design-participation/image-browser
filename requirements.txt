@@ -2,7 +2,7 @@ annoy==1.14.0
 bjoern==2.2.3
 bottle==0.12.13
 cachetools==3.0.0
-numpy==1.15.4
+numpy==1.22.0
 Paste==3.0.4
 Pillow>=7.1.0
 Pillow-PIL==0.1.dev0
